@@ -22,4 +22,7 @@ Maximum capacity = 1
 
 <img width="720" alt="Capture3" src="https://github.com/arshadrebin/ec2-to-asg-attachment/assets/116037443/c1452001-e8ba-4c3f-93e2-bf05c401f3db">
 
+Activity history of the Auto Scaling Group is as below
+
+<img width="772" alt="Capture4" src="https://github.com/arshadrebin/ec2-to-asg-attachment/assets/116037443/fd3c0724-b9e0-4611-8ae1-860d84998406">
 
