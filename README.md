@@ -9,9 +9,15 @@
 
 Desired capacity = 0
 
+Desired capacity: Represents the initial capacity of the Auto Scaling group at the time of creation.
+
 Minimum capacity = 0
 
+Minimum capacity refers to the minimum number of instances that should be running in an Auto Scaling group (ASG) at all times, even during periods of low demand or when scaling down.
+
 Maximum capacity = 1
+
+The maximum capacity refers to the upper limit on the number of instances that can be launched and maintained by an Auto Scaling group (ASG).
 
 <img width="470" alt="Capture1" src="https://github.com/arshadrebin/ec2-to-asg-attachment/assets/116037443/44cc6f08-4d11-4ca5-bba7-2d0e73235412">
 
