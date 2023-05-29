@@ -9,7 +9,7 @@
 
 Desired capacity = 0
 
-Desired capacity: Represents the initial capacity of the Auto Scaling group at the time of creation.
+Desired capacity represents the initial capacity of the Auto Scaling group at the time of creation.
 
 Minimum capacity = 0
 
