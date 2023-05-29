@@ -7,15 +7,15 @@
  
 4) Create Auto Scaling group with the above launch configuration. The group size should be below parameters.
 
-Desired capacity = 0
+### Desired capacity = 0
 
 Desired capacity represents the initial capacity of the Auto Scaling group at the time of creation.
 
-Minimum capacity = 0
+### Minimum capacity = 0
 
 Minimum capacity refers to the minimum number of instances that should be running in an Auto Scaling group (ASG) at all times, even during periods of low demand or when scaling down.
 
-Maximum capacity = 1
+### Maximum capacity = 1
 
 The maximum capacity refers to the upper limit on the number of instances that can be launched and maintained by an Auto Scaling group (ASG).
 
